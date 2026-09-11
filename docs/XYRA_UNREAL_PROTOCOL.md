@@ -1,0 +1,2 @@
+# XYRA Unreal Protocol — Ludus
+Authority Ø > TRINITY governing docs > ADRs > active CodeSpring package > implementation. XYRA loop through plan/build/validate/review/attack/fix/evidence/Git. Narrative Pro 2 + Ultra default; Turn-Based RPG/Interactive Story are accelerators and cannot duplicate canonical narrative/battle/state owners. Read active context/project; plan first; C++/Blueprint by architecture; staged Ludus edits; compile/test/PIE/save/performance. Calendar/relationship/combat/canon/engine changes are material and escalate to Ø.

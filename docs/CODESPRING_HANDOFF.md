@@ -1,0 +1,2 @@
+# CodeSpring → Ludus
+Atomic packages include WP/requirements, objective/non-goals, dependencies, governing/task docs, owner/targets, acceptance, calendar/relationship/battle/narrative tests and migration notes. Sync active context to `Docs/XYRA`; branch `feature/TRINITY-WP-XXXX`; use Git/LFS for Unreal binaries. Evidence is independently reviewed before develop→staging→main.

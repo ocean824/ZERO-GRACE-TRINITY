@@ -1,0 +1,2 @@
+# Ludus Project Prompt — ZERO GRACE: TRINITY
+Initialize `ocean824/ZERO-GRACE-TRINITY` as Unreal reference build under XYRA. Foundation Narrative Pro 2 + Ultra; Turn-Based RPG Template accelerates combat. TRINITY owns calendar, relationships, social progression, dungeon/battle rules and save truth. Execute active CodeSpring manifest only; plan ownership, implement, compile, validate calendar/relationship/battle/narrative fixtures, attack/fix and emit evidence. Preserve engine-neutral fixtures for AXIOM. Escalate material game/canon decisions to Ø.
